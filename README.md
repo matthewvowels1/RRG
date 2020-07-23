@@ -56,7 +56,7 @@ https://www.hindawi.com/journals/as/2014/502678/
 
 
 (People are missing the point on Wansink, so) what's the lesson we should be drawing from this story? Gelman, A. (2018)
-ttps://statmodeling.stat.columbia.edu/2018/09/27/people-are-missing-the-point-on-wansink-so-whats-the-lesson-we-should-be-drawing-from-this-story/
+https://statmodeling.stat.columbia.edu/2018/09/27/people-are-missing-the-point-on-wansink-so-whats-the-lesson-we-should-be-drawing-from-this-story/
 
 Discussion: difficulties in making inferences about scientific truth from distributions of published p-values. Gelman, A. (2013).
 http://www.stat.columbia.edu/~gelman/research/published/GelmanORourkeBiostatistics.pdf
