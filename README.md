@@ -6,6 +6,9 @@ Resources are grouped according to the field for which they are relevant.
 
 ## General
 
+Science Fictions. Exposing fraud, bias, negligence and hype in science. Ritchie, S. (2020)
+https://www.penguin.co.uk/books/111/1117290/science-fictions/9781847925657.html
+
 The mass production of redundant, misleading, and conflicted systematic reviews and meta-analyses. Ioannidis, J.P.A. (2016)
 https://www.ncbi.nlm.nih.gov/pubmed/27620683
 
