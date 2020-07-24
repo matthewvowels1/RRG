@@ -9,6 +9,8 @@ Resources are grouped according to the field for which they are relevant.
 Science Fictions. Exposing fraud, bias, negligence and hype in science. Ritchie, S. (2020)
 https://www.penguin.co.uk/books/111/1117290/science-fictions/9781847925657.html
 
+Estimating the deep replicability of scientific findings using human and artificial intelligence. Yang, Y., Youyou, W. and Uzzi, B. (2020) https://www.pnas.org/content/117/20/10762
+
 The mass production of redundant, misleading, and conflicted systematic reviews and meta-analyses. Ioannidis, J.P.A. (2016)
 https://www.ncbi.nlm.nih.gov/pubmed/27620683
 
@@ -183,9 +185,33 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5698693/
 
 
 
+## Machine Learning / Computer Science
+
+Low replicability of machine learning experiments is not a small data set phenomenon. Bouckaert, R.R. (2005)
+https://www.cs.waikato.ac.nz/~remco/large.pdf
+
+Estimating replicability of classifier learning experiments. Bouckaert, R.R. (2004) 
+https://dl.acm.org/doi/10.1145/1015330.1015338
+
+De-anonymization of authors through arXiv submissions during double-blind review. Bharadhwaj, H., Turpin, D., Garg, A. and Anderson A. (2020) 
+https://arxiv.org/pdf/2007.00177.pdf
+
+Replicability is not reproducibility: Nor is it good science. Drummond, C. (2009) 
+http://cogprints.org/7691/
+
+Machine learning and AI research for Patient Benefit: 20 Critical Questions on Transparency, Replicability, Ethics and Effectiveness. Vollmer, S., Mateen, B.A. et al. (2018) 
+https://arxiv.org/abs/1812.10404
+
 
 
 ## Psychology, Social Science, Psychometrics and Education
+
+
+Machine learning in psychometrics and psychological research. Orru, G., Monaro, M., Conversano, C., Gemignani, A. and Sartori, G. (2020)
+https://doi.org/10.3389/fpsyg.2019.02970
+
+Replicability of machine learning models in the social sciences. A case study in variable selection. Vijayakumar, R. and Cheung, M.W.-L. (2018)
+https://econtent.hogrefe.com/doi/abs/10.1027/2151-2604/a000344?journalCode=zfp
 
 Why Do Some Psychology Researchers Resist Adopting Proposed Reforms to Research Practices? A Description of Researchers? Rationales. Washburn, A.N., Hanson, B.E. and Motyl, M. (2018)
 https://journals.sagepub.com/doi/abs/10.1177/2515245918757427
