@@ -5,10 +5,9 @@ Resources are grouped according to the field for which they are relevant.
 
 
 <details>
-<summary> ## General </summary>
+<summary>  GENERAL </summary>
 <br>
-This is how you dropdown.
-</details>
+
 
 
 
@@ -139,7 +138,7 @@ Is Matthew Walker's 'Why We Sleep' riddled with scientific and factual errors? G
 https://statmodeling.stat.columbia.edu/2019/11/18/is-matthew-walkers-why-we-sleep-riddled-with-scientific-and-factual-errors/?fbclid=IwAR3cKdsVX8I-gO4XIP2NMjMienq9-O7pebMF-9baOyulcO1d4XEJZDlu3ec
 
 
-
+</details>
 
 ## Medicine and Biomedical Research
 
