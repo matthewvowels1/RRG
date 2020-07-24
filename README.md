@@ -4,7 +4,13 @@ A collection of Awesome resources for Replicability, Reproducibility, and Genera
 Resources are grouped according to the field for which they are relevant. 
 
 
-## General
+<details>
+<summary> ## General </summary>
+<br>
+This is how you dropdown.
+</details>
+
+
 
 Science Fictions. Exposing fraud, bias, negligence and hype in science. Ritchie, S. (2020)
 https://www.penguin.co.uk/books/111/1117290/science-fictions/9781847925657.html
