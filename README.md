@@ -140,7 +140,13 @@ https://statmodeling.stat.columbia.edu/2019/11/18/is-matthew-walkers-why-we-slee
 
 </details>
 
-## Medicine and Biomedical Research
+
+
+<details>
+<summary>  BIOMEDICAL and MEDICINE </summary>
+<br>
+
+
 
 Medical research - still a scandal. Smith, R. (2014)
 https://blogs.bmj.com/bmj/2014/01/31/richard-smith-medical-research-still-a-scandal/
@@ -187,10 +193,14 @@ https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-019-3173-2
 
 Statistical methods and common problems in medical or biomedical science research. Yan, F., Robert, M. and Li, Y. (2017)
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5698693/
+</details>
 
 
 
-## Machine Learning / Computer Science
+<details>
+<summary>  MACHINE LEARNING, COMPUTER SCIENCE </summary>
+<br>
+
 
 Are we really making much progress? A worrying analysis of recent neural recommendation approaches. Dacrema, M.F., Cremonesi, P. and Jannach, D. (2019)
 https://arxiv.org/abs/1907.06902 
@@ -210,9 +220,15 @@ http://cogprints.org/7691/
 Machine learning and AI research for Patient Benefit: 20 Critical Questions on Transparency, Replicability, Ethics and Effectiveness. Vollmer, S., Mateen, B.A. et al. (2018) 
 https://arxiv.org/abs/1812.10404
 
+</details>
 
 
-## Psychology, Social Science, Psychometrics and Education
+
+<details>
+<summary>  PSYCHOLOGY, SOCIAL SCIENCE, PSYCHOMETRICS and EDUCATION </summary>
+<br>
+
+
 
 Reflecting on twenty-five years of research using implicit measures: Recommendations for their future use. Van Dessel, P., Cummins, J. et al. (2020) 
 https://www.researchgate.net/publication/343080774_Reflecting_on_Twenty-Five_Years_of_Research_Using_Implicit_Measures_Recommendations_for_their_Future_Use
@@ -336,8 +352,14 @@ https://psyarxiv.com/shm8v/
 Failing grade: 89 percent of introduction-to-psychology textbooks that define or explain statistical significance do so incorrect. Cassidy, S.A., Dimova, R. and Giguere, B. (2019)
 https://journals.sagepub.com/doi/10.1177/2515245919858072
 
+</details>
 
-## Neuroscience and Neuroimaging
+
+
+<details>
+<summary>  NEUROSCIENCE and NEUROIMAGING </summary>
+<br>
+
 
 Citation counts and journal impact factors do not capture research quality in the behavioral and brain sciences. Dougherty, M. and Horne, Z. (2019)
 https://psyarxiv.com/9g5wk/
@@ -357,8 +379,12 @@ https://www.nature.com/articles/nrn3475?fbclid=IwAR12NoOOG1wd_oPomkGPUrFlCFcIFPB
 Empirical assessment of published effect sizes and power in the recent cognitive neuroscience and psychology literature. Szucs, D. and Ioannidis, J.P.A (2017)
 https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2000797
 
+</details>
 
-## Epidemiology
+
+<details>
+<summary>  EPIDEMIOLOGY </summary>
+<br>
 
 Forecasting for COVID-19 has failed. Ioannidis, J.P.A., Cripps, S. and Tanner, M.A. (2020)
 https://forecasters.org/blog/2020/06/14/forecasting-for-covid-19-has-failed/
@@ -374,33 +400,39 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC523097/
 
 Scientific standards in epidemiologic studies of the menace of daily life. Feinstein, A.R. (1988) 
 https://pubmed.ncbi.nlm.nih.gov/3057627/
+</details>
 
 
-
-## Economics
+<details>
+<summary>  ECONOMICS </summary>
+<br>
 
 The power of bias in economics research. Ioannidis, J.P.A., Stanley, T.D. and Doucouliagos, H. (2017)
 https://onlinelibrary.wiley.com/doi/abs/10.1111/ecoj.12461
 
 The ergodicity problem in economics. Peters, O. (2019)
 https://www.nature.com/articles/s41567-019-0732-0?fbclid=IwAR3m50M2ns10ZHwBHKGM6YE9ZLVr3foydu_OY60j7kSZUW2aHQZdscTNlBM
+</details>
 
-
-## Biology
+<details>
+<summary>  BIOLOGY </summary>
+<br>
 
 Is the replication crisis a problem for biologists? A geometric morphometric approach. Vrdoljak, J., Sanchez, K.I., Arreola-Ramos, R. et al. (2019)
 https://www.biorxiv.org/content/10.1101/862052v1
 
+</details>
 
-
-## Sports Science
+<details>
+<summary>  SPORTS SCIENCE </summary>
+<br>
 
 Strengthening the Practice of Exercise and Sport-Science Research. Halperin, I., Vigotsky, A.D. and Pyne, D.B. (2018)
 https://www.semanticscholar.org/paper/Strengthening-the-Practice-of-Exercise-and-Halperin-Vigotsky/49988a76d2a5aa7baff8ec6689eb8c1aaf6ac429
 
 The problem with magnitude-based inference. Sainani, K.L. (2018)
 https://journals.lww.com/acsm-msse/Fulltext/2018/10000/The_Problem_with__Magnitude_based_Inference_.23.aspx
-
+</details>
 
 
 
