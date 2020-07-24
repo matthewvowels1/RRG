@@ -206,6 +206,9 @@ https://arxiv.org/abs/1812.10404
 
 ## Psychology, Social Science, Psychometrics and Education
 
+Reflecting on twenty-five years of research using implicit measures: Recommendations for their future use. Van Dessel, P., Cummins, J. et al. (2020) 
+https://www.researchgate.net/publication/343080774_Reflecting_on_Twenty-Five_Years_of_Research_Using_Implicit_Measures_Recommendations_for_their_Future_Use
+
 
 Machine learning in psychometrics and psychological research. Orru, G., Monaro, M., Conversano, C., Gemignani, A. and Sartori, G. (2020)
 https://doi.org/10.3389/fpsyg.2019.02970
