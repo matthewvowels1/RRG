@@ -187,6 +187,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5698693/
 
 ## Machine Learning / Computer Science
 
+Are we really making much progress? A worrying analysis of recent neural recommendation approaches. Dacrema, M.F., Cremonesi, P. and Jannach, D. (2019)
+https://arxiv.org/abs/1907.06902 
+
 Low replicability of machine learning experiments is not a small data set phenomenon. Bouckaert, R.R. (2005)
 https://www.cs.waikato.ac.nz/~remco/large.pdf
 
