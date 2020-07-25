@@ -14,6 +14,9 @@ Resources are grouped according to the field for which they are relevant.
 Science Fictions. Exposing fraud, bias, negligence and hype in science. Ritchie, S. (2020)
 https://www.penguin.co.uk/books/111/1117290/science-fictions/9781847925657.html
 
+The statistical crisis in science. Gelman, A. Loken E. (2014)
+https://www.americanscientist.org/article/the-statistical-crisis-in-science
+
 Estimating the deep replicability of scientific findings using human and artificial intelligence. Yang, Y., Youyou, W. and Uzzi, B. (2020) https://www.pnas.org/content/117/20/10762
 
 The mass production of redundant, misleading, and conflicted systematic reviews and meta-analyses. Ioannidis, J.P.A. (2016)
@@ -229,6 +232,9 @@ https://arxiv.org/abs/1812.10404
 <br>
 
 
+
+False-Positive Psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant. Simmons, J.P., Nelson, L.D. and Simonsohn, U. (2011)
+https://journals.sagepub.com/doi/full/10.1177/0956797611417632
 
 Reflecting on twenty-five years of research using implicit measures: Recommendations for their future use. Van Dessel, P., Cummins, J. et al. (2020) 
 https://www.researchgate.net/publication/343080774_Reflecting_on_Twenty-Five_Years_of_Research_Using_Implicit_Measures_Recommendations_for_their_Future_Use
