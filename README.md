@@ -146,10 +146,11 @@ https://statmodeling.stat.columbia.edu/2019/11/18/is-matthew-walkers-why-we-slee
 
 
 <details>
-<summary>  BIOMEDICAL and MEDICINE </summary>
+<summary>  BIOMEDICAL, MEDICINE, and PUBLIC HEALTH </summary>
 <br>
 
-
+Homeopathy combat against coronavirus disease (COVID-19). Kalliantas, D., Kallianta, M. and Karagianni, C.S. (2020)
+https://link.springer.com/article/10.1007/s10389-020-01305-z
 
 Medical research - still a scandal. Smith, R. (2014)
 https://blogs.bmj.com/bmj/2014/01/31/richard-smith-medical-research-still-a-scandal/
