@@ -232,6 +232,8 @@ https://arxiv.org/abs/1812.10404
 <summary>  PSYCHOLOGY, SOCIAL SCIENCE, PSYCHOMETRICS and EDUCATION </summary>
 <br>
 
+Don't ditch the laptop just yet: A direct replication of Mueller and Oppenheimer's (2014) study 1 plus mini meta-analyses across similar studies. Urry, H. (2014)
+https://psyarxiv.com/vqyw6/
 
 
 False-Positive Psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant. Simmons, J.P., Nelson, L.D. and Simonsohn, U. (2011)
