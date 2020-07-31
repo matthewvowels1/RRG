@@ -14,6 +14,12 @@ Resources are grouped according to the field for which they are relevant.
 Science Fictions. Exposing fraud, bias, negligence and hype in science. Ritchie, S. (2020)
 https://www.penguin.co.uk/books/111/1117290/science-fictions/9781847925657.html
 
+Deming, data and observational studies: a process out of control and needing fixing. Yong, S.S. and Karr, A. (2011)
+https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1740-9713.2011.00506.x
+
+Is there a reproducibility crisis? Baker, M. (2016)
+https://www.nature.com/news/polopoly_fs/1.19970!/menu/main/topColumns/topLeftColumn/pdf/533452a.pdf
+
 The statistical crisis in science. Gelman, A. Loken E. (2014)
 https://www.americanscientist.org/article/the-statistical-crisis-in-science
 
@@ -232,6 +238,18 @@ https://arxiv.org/abs/1812.10404
 <summary>  PSYCHOLOGY, SOCIAL SCIENCE, PSYCHOMETRICS and EDUCATION </summary>
 <br>
 
+Editors? Introduction to the Special Section on Replicability in Psychological Science: A Crisis of Confidence? Pashler, H. and Wagenmakers, E-J. (2012)
+https://journals.sagepub.com/doi/10.1177/1745691612465253
+
+Call for proposals: Special issue of Social Psychology on ?Replications of important results in social psychology?. Nosek, B.A. and Lakens, D.  (2013)
+https://psycnet.apa.org/record/2013-01729-009
+
+Registered Reports: A Method to Increase the Credibility of Published Results. Nosek, B.A. and Lakens, D. (2014)
+https://psycnet.apa.org/fulltext/2014-20922-001.html
+
+Current Practices in Data Analysis Procedures in Psychology: What Has Changed? Blanca, M.J., Alarcon, R. and Bono, R. (2018)
+https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02558/full
+
 Don't ditch the laptop just yet: A direct replication of Mueller and Oppenheimer's (2014) study 1 plus mini meta-analyses across similar studies. Urry, H. (2014)
 https://psyarxiv.com/vqyw6/
 
@@ -325,7 +343,10 @@ The ubiquity of common method variance: the case of the Big Five. Biderman, M.D.
 https://www.sciencedirect.com/science/article/abs/pii/S009265661100078X
 
 Estimating the reproducibility of psychological science. Aarts, A.A. et al. (2015)
+
 https://ink.library.smu.edu.sg/lkcsb_research/5257/?fbclid=IwAR0T2-y7h59GWYKK-GekDXT-ikBIknwjrz84fwJtdiATep_aWUEnzh2aWAM
+
+https://science.sciencemag.org/content/349/6251/aac4716
 
 Statistically controlling for confounding constructs is harder than you think. Westfall, J. and Yarkoni, T. (2016)
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152719
