@@ -14,6 +14,8 @@ Resources are grouped according to the field for which they are relevant.
 Science Fictions. Exposing fraud, bias, negligence and hype in science. Ritchie, S. (2020)
 https://www.penguin.co.uk/books/111/1117290/science-fictions/9781847925657.html
 
+Deciding what to replicate: A formal definition of replication value and a decision model for replication study selection. Isager, P.M. and van Aert, R.C.M et al..(2020) https://osf.io/preprints/metaarxiv/2gurz/
+
 Deming, data and observational studies: a process out of control and needing fixing. Yong, S.S. and Karr, A. (2011)
 https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1740-9713.2011.00506.x
 
