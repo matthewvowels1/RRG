@@ -9,7 +9,8 @@ Resources are grouped according to the field for which they are relevant.
 <br>
 
 
-
+The “replication crisis” in the public eye: Germans’ awareness and perceptions of the (ir)reproducibility of scientific research. Niels MedeMike S. SchäferRicarda ZieglerMarkus Weißkopf (2020)
+https://osf.io/ctpyn/
 
 Science Fictions. Exposing fraud, bias, negligence and hype in science. Ritchie, S. (2020)
 https://www.penguin.co.uk/books/111/1117290/science-fictions/9781847925657.html
@@ -157,6 +158,9 @@ https://statmodeling.stat.columbia.edu/2019/11/18/is-matthew-walkers-why-we-slee
 <summary>  BIOMEDICAL, MEDICINE, and PUBLIC HEALTH </summary>
 <br>
 
+Transparent manuscript reporting practices in behavioral medicine research: An audit of publications in 2018 and 2008. Megan McVayKellie CooperMontserrat SeoaneMarissa DonahueLaura Scherer, (2020)
+https://psyarxiv.com/nx4fk
+
 Homeopathy combat against coronavirus disease (COVID-19). Kalliantas, D., Kallianta, M. and Karagianni, C.S. (2020)
 https://link.springer.com/article/10.1007/s10389-020-01305-z
 
@@ -239,6 +243,9 @@ https://arxiv.org/abs/1812.10404
 <details>
 <summary>  PSYCHOLOGY, SOCIAL SCIENCE, PSYCHOMETRICS and EDUCATION </summary>
 <br>
+  
+Publication bias in the social sciences: Unlocking the file drawer, Franco, A., Malhotra, N., Simonovits, G. (2014)
+https://science.sciencemag.org/content/345/6203/1502.full
 
 Editors? Introduction to the Special Section on Replicability in Psychological Science: A Crisis of Confidence? Pashler, H. and Wagenmakers, E-J. (2012)
 https://journals.sagepub.com/doi/10.1177/1745691612465253
