@@ -244,6 +244,9 @@ https://arxiv.org/abs/1812.10404
 <summary>  PSYCHOLOGY, SOCIAL SCIENCE, PSYCHOMETRICS and EDUCATION </summary>
 <br>
   
+Rejecting impulsivity as a psychological construct: A theoretical, empirical, and sociocultural argument. Strickland, J.C., Johnson, M.W. (2020)
+ https://psycnet.apa.org/record/2020-72094-001
+ 
 Publication bias in the social sciences: Unlocking the file drawer, Franco, A., Malhotra, N., Simonovits, G. (2014)
 https://science.sciencemag.org/content/345/6203/1502.full
 
