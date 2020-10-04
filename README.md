@@ -216,6 +216,12 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5698693/
 <details>
 <summary>  MACHINE LEARNING, COMPUTER SCIENCE </summary>
 <br>
+  
+  An Open Review of OpenReview: A Critical Analysis of the Machine Learning Conference Review Process. Anonymous (2020)
+  https://openreview.net/forum?id=Cn706AbJaKW
+  
+  On the Reproducibility of Neural Network Prediction. Anonymous (2020)
+  https://openreview.net/forum?id=1Q-CqRjUzf
 
 
 Are we really making much progress? A worrying analysis of recent neural recommendation approaches. Dacrema, M.F., Cremonesi, P. and Jannach, D. (2019)
